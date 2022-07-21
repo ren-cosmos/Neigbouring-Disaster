@@ -1,6 +1,6 @@
 ### Instructions compile and run:
 
-1. download and extract the zip file
+1. clone the Neigbouring-Disaster repository
 2. open terminal and open the directory containing the .java files
 3. execute the command *javac \*.java* to compile
 4. execute *java Driver* to run
